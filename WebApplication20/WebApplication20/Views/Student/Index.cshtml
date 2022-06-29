@@ -1,0 +1,74 @@
+﻿@model IEnumerable<WebApplication20.Models.Student>
+
+@{
+    ViewBag.Title = "List of Students";
+}
+
+<h1>List of Subjects</h1>
+<h4>@ViewBag.StudSub1</h4>
+<h4>@ViewBag.StudSub2</h4>
+<h4>@ViewBag.StudSub3</h4>
+<h4>@ViewBag.StudSub4</h4>
+<h4>@ViewBag.StudSub5</h4>
+
+<h1>List of NoteBook Brancds</h1>
+@foreach (var item in ViewData["notebooks"] as List<string>)
+{<h4>@item</h4>
+}
+
+
+<h2>List of Students in Class with 5 character in Name</h2>
+@foreach (var i in ViewData["Nameof5"] as List<string>)
+{ <h4>@i</h4>
+}
+<h2>List of Student</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.StudRollNo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StudName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StudClass)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StudAddress)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudRollNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudClass)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudAddress)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+    }
+
+</table>
+
+
+
+
+

@@ -1,0 +1,16 @@
+C:\Users\KunalDekate\source\repos\ConsoleApp36\ConsoleApp36\bin\Debug\netcoreapp3.1\ConsoleApp36.exe
+C:\Users\KunalDekate\source\repos\ConsoleApp36\ConsoleApp36\bin\Debug\netcoreapp3.1\Test.txt
+C:\Users\KunalDekate\source\repos\ConsoleApp36\ConsoleApp36\bin\Debug\netcoreapp3.1\ConsoleApp36.deps.json
+C:\Users\KunalDekate\source\repos\ConsoleApp36\ConsoleApp36\bin\Debug\netcoreapp3.1\ConsoleApp36.runtimeconfig.json
+C:\Users\KunalDekate\source\repos\ConsoleApp36\ConsoleApp36\bin\Debug\netcoreapp3.1\ConsoleApp36.runtimeconfig.dev.json
+C:\Users\KunalDekate\source\repos\ConsoleApp36\ConsoleApp36\bin\Debug\netcoreapp3.1\ConsoleApp36.dll
+C:\Users\KunalDekate\source\repos\ConsoleApp36\ConsoleApp36\bin\Debug\netcoreapp3.1\ConsoleApp36.pdb
+C:\Users\KunalDekate\source\repos\ConsoleApp36\ConsoleApp36\obj\Debug\netcoreapp3.1\ConsoleApp36.csprojAssemblyReference.cache
+C:\Users\KunalDekate\source\repos\ConsoleApp36\ConsoleApp36\obj\Debug\netcoreapp3.1\ConsoleApp36.AssemblyInfoInputs.cache
+C:\Users\KunalDekate\source\repos\ConsoleApp36\ConsoleApp36\obj\Debug\netcoreapp3.1\ConsoleApp36.AssemblyInfo.cs
+C:\Users\KunalDekate\source\repos\ConsoleApp36\ConsoleApp36\obj\Debug\netcoreapp3.1\ConsoleApp36.csproj.CoreCompileInputs.cache
+C:\Users\KunalDekate\source\repos\ConsoleApp36\ConsoleApp36\obj\Debug\netcoreapp3.1\ConsoleApp36.dll
+C:\Users\KunalDekate\source\repos\ConsoleApp36\ConsoleApp36\obj\Debug\netcoreapp3.1\ConsoleApp36.pdb
+C:\Users\KunalDekate\source\repos\ConsoleApp36\ConsoleApp36\obj\Debug\netcoreapp3.1\ConsoleApp36.genruntimeconfig.cache
+C:\Users\KunalDekate\source\repos\ConsoleApp36\ConsoleApp36\bin\Debug\netcoreapp3.1\Test1.txt
+C:\Users\KunalDekate\source\repos\ConsoleApp36\ConsoleApp36\bin\Debug\netcoreapp3.1\Test2.txt

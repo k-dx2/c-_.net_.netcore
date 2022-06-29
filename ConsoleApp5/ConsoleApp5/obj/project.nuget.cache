@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "anvH74ZxXW9VW7Z5Z7sNixipxBOcf+GLzBeLf0EShxZ+7kCIk0zc+FidWTbX0Udo/T0BQIbqu8n7rVxeEbCg2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KunalDekate\\source\\repos\\ConsoleApp5\\ConsoleApp5\\ConsoleApp5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KunalDekate\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

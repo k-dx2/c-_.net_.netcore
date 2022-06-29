@@ -1,0 +1,13 @@
+C:\Users\KunalDekate\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp3.1\ConsoleApp27.exe
+C:\Users\KunalDekate\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp3.1\ConsoleApp27.deps.json
+C:\Users\KunalDekate\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp3.1\ConsoleApp27.runtimeconfig.json
+C:\Users\KunalDekate\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp3.1\ConsoleApp27.runtimeconfig.dev.json
+C:\Users\KunalDekate\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp3.1\ConsoleApp27.dll
+C:\Users\KunalDekate\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp3.1\ConsoleApp27.pdb
+C:\Users\KunalDekate\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.csprojAssemblyReference.cache
+C:\Users\KunalDekate\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.AssemblyInfoInputs.cache
+C:\Users\KunalDekate\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.AssemblyInfo.cs
+C:\Users\KunalDekate\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.csproj.CoreCompileInputs.cache
+C:\Users\KunalDekate\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.dll
+C:\Users\KunalDekate\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.pdb
+C:\Users\KunalDekate\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.genruntimeconfig.cache

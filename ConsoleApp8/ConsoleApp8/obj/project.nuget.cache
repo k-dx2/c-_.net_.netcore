@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2aVlR4mKVmwG0sqrrL+Or6yFD+DxvWAUli/5ztLasCupFbzixMywgKB5fny4UV0yt9v7UIWp1msOlbHMVEKoFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KunalDekate\\source\\repos\\ConsoleApp8\\ConsoleApp8\\ConsoleApp8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KunalDekate\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

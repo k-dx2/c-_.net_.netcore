@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5G6aU7RaMbftaoCPB9f12ssQmGKxm+I3FibsD1sydwwXOi1jqIwgKlLOhgyJVWgpE6Ur/Ns+BDzyj4WVlO9Zwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KunalDekate\\source\\repos\\WebApplication47\\WebApplication47\\WebApplication47.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KunalDekate\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

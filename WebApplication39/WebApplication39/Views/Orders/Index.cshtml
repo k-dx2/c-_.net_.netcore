@@ -1,0 +1,53 @@
+﻿@model IEnumerable<WebApplication39.Models.Order>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.OAddrDetails)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OPayStat)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ODate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ODelDate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.OAddrDetails)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OPayStat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ODate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ODelDate)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.OId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.OId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.OId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

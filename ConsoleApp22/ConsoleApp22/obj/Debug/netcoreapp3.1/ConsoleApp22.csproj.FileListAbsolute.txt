@@ -1,0 +1,13 @@
+C:\Users\KunalDekate\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\netcoreapp3.1\ConsoleApp22.AssemblyInfoInputs.cache
+C:\Users\KunalDekate\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\netcoreapp3.1\ConsoleApp22.AssemblyInfo.cs
+C:\Users\KunalDekate\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\netcoreapp3.1\ConsoleApp22.csproj.CoreCompileInputs.cache
+C:\Users\KunalDekate\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\netcoreapp3.1\ConsoleApp22.exe
+C:\Users\KunalDekate\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\netcoreapp3.1\ConsoleApp22.deps.json
+C:\Users\KunalDekate\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\netcoreapp3.1\ConsoleApp22.runtimeconfig.json
+C:\Users\KunalDekate\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\netcoreapp3.1\ConsoleApp22.runtimeconfig.dev.json
+C:\Users\KunalDekate\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\netcoreapp3.1\ConsoleApp22.dll
+C:\Users\KunalDekate\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\netcoreapp3.1\ConsoleApp22.pdb
+C:\Users\KunalDekate\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\netcoreapp3.1\ConsoleApp22.dll
+C:\Users\KunalDekate\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\netcoreapp3.1\ConsoleApp22.pdb
+C:\Users\KunalDekate\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\netcoreapp3.1\ConsoleApp22.genruntimeconfig.cache
+C:\Users\KunalDekate\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\netcoreapp3.1\ConsoleApp22.csprojAssemblyReference.cache

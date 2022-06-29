@@ -1,0 +1,22 @@
+﻿@model IEnumerable<WebApplication19.Models.Employee>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+@foreach (var item in Model)
+{
+    <span>@item.EmpId</span>
+    <h4>@item.EmpName</h4>
+    <p>@item.EmpDept,@item.EmpDoj</p>
+    <span> @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |</span>
+    <br />
+    <br />
+
+}
+

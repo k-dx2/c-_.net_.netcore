@@ -1,0 +1,7 @@
+C:\Users\KunalDekate\source\repos\WebApplication50\WebApplication50\obj\Docker\publish\WebApplication50.exe
+C:\Users\KunalDekate\source\repos\WebApplication50\WebApplication50\obj\Docker\publish\appsettings.Development.json
+C:\Users\KunalDekate\source\repos\WebApplication50\WebApplication50\obj\Docker\publish\appsettings.json
+C:\Users\KunalDekate\source\repos\WebApplication50\WebApplication50\obj\Docker\publish\WebApplication50.dll
+C:\Users\KunalDekate\source\repos\WebApplication50\WebApplication50\obj\Docker\publish\WebApplication50.deps.json
+C:\Users\KunalDekate\source\repos\WebApplication50\WebApplication50\obj\Docker\publish\WebApplication50.runtimeconfig.json
+C:\Users\KunalDekate\source\repos\WebApplication50\WebApplication50\obj\Docker\publish\WebApplication50.pdb

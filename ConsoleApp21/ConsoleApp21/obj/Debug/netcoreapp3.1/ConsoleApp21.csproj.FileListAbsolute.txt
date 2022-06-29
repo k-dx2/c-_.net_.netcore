@@ -1,0 +1,13 @@
+C:\Users\KunalDekate\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\netcoreapp3.1\ConsoleApp21.exe
+C:\Users\KunalDekate\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\netcoreapp3.1\ConsoleApp21.deps.json
+C:\Users\KunalDekate\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\netcoreapp3.1\ConsoleApp21.runtimeconfig.json
+C:\Users\KunalDekate\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\netcoreapp3.1\ConsoleApp21.runtimeconfig.dev.json
+C:\Users\KunalDekate\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\netcoreapp3.1\ConsoleApp21.dll
+C:\Users\KunalDekate\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\netcoreapp3.1\ConsoleApp21.pdb
+C:\Users\KunalDekate\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\netcoreapp3.1\ConsoleApp21.csprojAssemblyReference.cache
+C:\Users\KunalDekate\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\netcoreapp3.1\ConsoleApp21.AssemblyInfoInputs.cache
+C:\Users\KunalDekate\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\netcoreapp3.1\ConsoleApp21.AssemblyInfo.cs
+C:\Users\KunalDekate\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\netcoreapp3.1\ConsoleApp21.csproj.CoreCompileInputs.cache
+C:\Users\KunalDekate\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\netcoreapp3.1\ConsoleApp21.dll
+C:\Users\KunalDekate\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\netcoreapp3.1\ConsoleApp21.pdb
+C:\Users\KunalDekate\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\netcoreapp3.1\ConsoleApp21.genruntimeconfig.cache
